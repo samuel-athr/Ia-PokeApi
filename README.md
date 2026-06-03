@@ -20,7 +20,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 *   **React** (ou React Native / Expo, dependendo da sua estrutura)
 *   **TypeScript** (Garantindo tipagem estática e segurança no código)
 *   **Styled Components** (Para estilização moderna e escopada)
-*   **Axios** (Para requisições HTTP na PokeAPI)
+*   **Fetch** (Para requisições HTTP na PokeAPI)
 
 ---
 
